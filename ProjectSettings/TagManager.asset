@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Laser
+  - Health Pickup
+  - Weapon Upgrade
+  - Weapon Speed
+  - Protect Shield
+  - Reflect Shield
+  - Enemy Laser
+  - Enemy Spawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Player Projectile
+  - Enemy Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Projectiles
+    uniqueID: 2758592219
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
